@@ -53,7 +53,7 @@ Saidtex-Front-End/
 
    ```bash
    git clone https://github.com/Saidtex-Front-End.git
-   cd Front-End
+   cd Saidtex-Front-End
    ```
 
 2. **Install dependencies**
