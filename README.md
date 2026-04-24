@@ -18,7 +18,7 @@ It is built with **Next.js** and uses **TailwindCSS** and several UI libraries t
 ## Project Structure
 
 ```
-Front-End/
+Saidtex-Front-End/
 ├── app/
 │   ├── buyandsell/
 │   │   └── page.jsx              # Buy & Sell landing page
@@ -52,7 +52,7 @@ Front-End/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/saidtexofficial/Front-End.git
+   git clone https://github.com/Saidtex-Front-End.git
    cd Front-End
    ```
 
