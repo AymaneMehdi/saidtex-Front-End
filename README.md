@@ -52,7 +52,7 @@ Saidtex-Front-End/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Saidtex-Front-End.git
+   git clone https://github.com/AymaneMehdi/Saidtex-Front-End.git
    cd Saidtex-Front-End
    ```
 
